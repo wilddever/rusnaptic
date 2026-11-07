@@ -1,2 +1,2 @@
 # rusnaptic
-Full russian translition of SNAPTIC Demo (Cutscenes, dialogues, textures)
+Полный русский перевод для демо-версии SNAPTIC (Катсцены, диалоги, текстуры)
