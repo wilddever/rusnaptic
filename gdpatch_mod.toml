@@ -1,0 +1,11 @@
+id = "rusnaptic"
+
+[meta]
+name = "RuSnaptic"
+version = "0.2.0"
+authors = ["RedL1zar"]
+description = "Полный русский перевод демоверсии Snaptic"
+website = "https://github.com/wilddever/rusnaptic"
+
+[snapticbase]
+dependencies = ["snapticbase@>=0.2.0"]
